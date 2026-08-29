@@ -1,4 +1,4 @@
-# ☁️🛡️ CLOUD SOC LAB 
+# ☁️🛡️ CLOUD SOC LAB         -  <img src="https://img.shields.io/badge/License-MIT-green">
 #  Azure Security Monitoring & Incident Response
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white)
